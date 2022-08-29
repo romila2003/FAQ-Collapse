@@ -19,7 +19,7 @@ This is apart of the 50 projects in 50 days challenge and is the twelfth project
 
 ### The challenge
 
-- To create a FAQ that opens and closes when the icon is clicked. The challenge involves HTML, CSS, Javascript and API.
+- To create a FAQ that opens and closes when the icon is clicked. The challenge involves HTML, CSS and Javascript.
 
 ### Screenshot
 
